@@ -1,0 +1,13 @@
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\bin\Debug\Battle Of Ships.exe.config
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\bin\Debug\Battle Of Ships.exe
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\bin\Debug\Battle Of Ships.pdb
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle_Of_Ships.Battle_Of_Ships.resources
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle_Of_Ships.Properties.Resources.resources
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle Of Ships.csproj.GenerateResource.cache
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle Of Ships.csproj.CoreCompileInputs.cache
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle Of Ships.exe
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle Of Ships.pdb
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle_Of_Ships.Game.resources
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle_Of_Ships.Message.resources
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle Of Ships.csprojAssemblyReference.cache
+D:\Work\CCE\Year 2 - Junior\Semester 1\MicroProcessor - 1\Bonus Project\Bonus-Game-Micro\Battle Of Ships\obj\Debug\Battle_Of_Ships.Start_Game.resources
